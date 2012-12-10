@@ -1,0 +1,9 @@
+{
+    "name": "rebuy/amazon-s3",
+    "autoload": {
+        "psr-0": {
+            "Amazon" : "src/"
+        } 
+    }
+}
+
